@@ -1,0 +1,21 @@
+{
+  "name": "polymer-observable-references",
+  "description": "",
+  "main": "observable-references.html",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Iain Reid",
+      "email": "iainreid382@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
